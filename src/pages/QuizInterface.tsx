@@ -166,6 +166,7 @@ export default function QuizInterface() {
                     {/* Main content */}
                     <div className="flex-1 px-6 py-4">
                         <div className="flex justify-between items-center mb-6">
+
                             <h2 className="text-2xl font-bold">{quizData.title}</h2>
                             <div className="flex items-center gap-2">
                                 <span className="text-sm">Remaining time</span>
